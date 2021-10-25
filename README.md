@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kmgoldfarb
 - 👀 I’m interested in front end web development.
-- 🌱 I’m currently learning React, JavaScript, CSS.
+- 🌱 I’m work in React, JavaScript, CSS.
 - 💞️ I’m looking to collaborate on data visualization and React apps.
 - 📫 How to reach me kmgoldfarb@gmail.com
 
