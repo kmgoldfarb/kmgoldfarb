@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kmgoldfarb
-- 👀 I’m interested in front end web development.
-- 🌱 I’m work in React, JavaScript, CSS.
-- 💞️ I’m looking to collaborate on data visualization and React apps.
+- 👀 I’m interested in web development.
+- 🌱 I’m working in React, JavaScript, Python, Django, HTML, and cSS.
 - 📫 How to reach me kmgoldfarb@gmail.com
 
 <!---
