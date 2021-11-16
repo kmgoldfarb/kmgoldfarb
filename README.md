@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kmgoldfarb
 - 👀 I’m interested in web development.
-- 🌱 I’m working in React, JavaScript, Python, Django, HTML, and CSS.
+- 🌱 I’m working in React, JavaScript, Node, Python, Django, HTML, and CSS.
 - 📫 How to reach me kmgoldfarb@gmail.com
 
 <!---
